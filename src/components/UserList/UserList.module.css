@@ -1,0 +1,13 @@
+.users {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 40rem;
+}
+.users ul {
+  list-style: none;
+  padding: 1rem;
+  margin: 0;
+}
+
+
+
